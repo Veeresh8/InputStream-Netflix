@@ -7,7 +7,7 @@ android {
         abortOnError false
     }
     defaultConfig {
-        minSdkVersion 9
+        minSdkVersion 19
         targetSdkVersion rootProject.ext.targetSdkVersion
     }
     buildTypes {

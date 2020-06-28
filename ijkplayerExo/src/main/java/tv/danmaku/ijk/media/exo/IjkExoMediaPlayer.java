@@ -73,7 +73,7 @@ public class IjkExoMediaPlayer extends AbstractMediaPlayer {
         mSurface = surface;
         if (mInternalPlayer != null)
             mInternalPlayer.setSurface(surface);
-    }
+     }
 
     @Override
     public void setDataSource(Context context, Uri uri) {

@@ -1,0 +1,39 @@
+.logo-title {
+    width: 100px !important;
+    height: 100px !important;
+    margin: 50px auto 5px auto !important;
+    background: url(https://k2w4b5q6.map2.ssl.hwcdn.net/wemesh/static/icons/ic_dropboxlogo_box.png) no-repeat !important;
+    background-size: 100% !important;
+}
+
+.header-logo, .ui-header__text, .login-form-container__google-div, .recaptcha-terms-text, .remember-me, .footer, .login-need-help, #flash, #notification_box, #register-link, #notify-wrapper {
+    display: none !important;
+}
+
+#login {
+    background: transparent !important;
+}
+
+.text-input {
+    margin-bottom: 10px !important;
+    border-radius: 5px !important;
+    background: rgba(0, 0, 0, 0.25) !important;
+}
+
+.text-input input {
+    color: white !important;
+}
+
+.text-input input:focus {
+    outline: none !important;
+}
+
+.login-button {
+    border: none !important;
+    background: white !important;
+    color: black !important;
+}
+
+.login-loading-indicator {
+    margin-top: -75px !important;
+}

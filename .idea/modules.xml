@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Desktop-ijkplayer-pano.iml" filepath="$PROJECT_DIR$/.idea/modules/Desktop-ijkplayer-pano.iml" group="ijkplayer-pano" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/ijkplayer/ijkplayer.iml" filepath="$PROJECT_DIR$/ijkplayer/ijkplayer.iml" />
       <module fileurl="file://$PROJECT_DIR$/ijkplayer-pano.iml" filepath="$PROJECT_DIR$/ijkplayer-pano.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ijkplayer-pano-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ijkplayer-pano-app.iml" group="ijkplayer-pano/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ijkplayer/ijkplayer-pano-ijkplayer.iml" filepath="$PROJECT_DIR$/.idea/modules/ijkplayer/ijkplayer-pano-ijkplayer.iml" group="ijkplayer-pano/ijkplayer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ijkplayerExo/ijkplayer-pano-ijkplayerExo.iml" filepath="$PROJECT_DIR$/.idea/modules/ijkplayerExo/ijkplayer-pano-ijkplayerExo.iml" group="ijkplayer-pano/ijkplayerExo" />
       <module fileurl="file://$PROJECT_DIR$/ijkplayerExo/ijkplayerExo.iml" filepath="$PROJECT_DIR$/ijkplayerExo/ijkplayerExo.iml" />
     </modules>
   </component>
